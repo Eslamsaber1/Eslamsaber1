@@ -1,6 +1,6 @@
 👨‍💻I'am A Student In Computer Science at Modern Academy.
 
-💻I learn the C++, and I have experience in it in Algorisms and Data Structure. I am android developer and I learn the Java and Mobile applications.
+💻I learn the C++, and I have experience in it in Algorisms and Data Structure. I am android developer and I learn the Java/Kotlin and Mobile applications.
 
 💻I have done more than one project using python, c++, java, c#, and now I am doing some mobile applications and soon I will finish their implementation.
 
